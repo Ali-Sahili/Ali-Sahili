@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Ali 👋
+
+🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France
+
+🖥️ Research Intern @ [Inria](https://www.inria.fr/en)<br>
+
+🔙 Former Research Assistant @ [Center for Robotics (CAOR)](https://caor-mines-paristech.fr/en/home/)<br>
+🔙 Former Research Assistant @ [Lebanese University](http://www.ulfg.ul.edu.lb/)
+
+💞️ I'm interested in:
+- Machine Learning 💥
+- Deep Learning 🧠
+- Computer Vision 🎨
+- Generative models 💻
+- Robotics 🤖
+
+📫 Get in touch:
+
+[![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:alirida.sahili@gmail.com) &nbsp;&nbsp;
+[![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/) &nbsp;&nbsp;
+
 
 <!--
 **Ali-Sahili/Ali-Sahili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
