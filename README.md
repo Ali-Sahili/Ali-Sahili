@@ -1,6 +1,6 @@
 ### Hi there, I'm Ali 👋
 
-🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France
+🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France <br>
 🎓 M.Eng in Applied Mathematics: Robotics and Vision, Mines ParisTech, PSL Research University, France
 
 🖥️ Research Intern @ [Inria](https://www.inria.fr/en)<br>
