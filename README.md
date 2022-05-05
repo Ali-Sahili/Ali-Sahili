@@ -3,8 +3,9 @@
 🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France <br>
 🎓 M.Eng in Applied Mathematics: Robotics, Vision and Control, Mines ParisTech, France
 
-🖥️ Research Intern @ [Inria](https://www.inria.fr/en)<br>
+🖥️ R&D CV Engineer @ [Gerard Farm]()<br>
 
+🔙 Former Research Intern @ [Inria](https://www.inria.fr/en)<br>
 🔙 Former Research Assistant @ [Center for Robotics (CAOR)](https://caor-mines-paristech.fr/en/home/)<br>
 🔙 Former Research Assistant @ [Lebanese University](http://www.ulfg.ul.edu.lb/)
 
