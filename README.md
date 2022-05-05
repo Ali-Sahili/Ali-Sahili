@@ -7,7 +7,7 @@
 
 🔙 Former Research Intern @ [Inria](https://www.inria.fr/en)<br>
 🔙 Former Research Assistant @ [Center for Robotics (CAOR)](https://caor-mines-paristech.fr/en/home/)<br>
-🔙 Former Research Assistant @ [Lebanese University](http://www.ulfg.ul.edu.lb/)
+<!-- 🔙 Former Research Assistant @ [Lebanese University](http://www.ulfg.ul.edu.lb/) -->
 
 💞️ I'm interested in:
 - Machine Learning 💥
