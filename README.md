@@ -33,12 +33,12 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) 
 
- <details>
+<!--  <details>
  <summary>⚡ GitHub Recent Activity</summary>
  <br/>
 
 [![Mr Sahili's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ali-Sahili&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details> 
+</details>  -->
 
 📫 Get in touch:
 
