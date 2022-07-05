@@ -81,6 +81,24 @@
 </details>  -->
 
 <details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <div align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Sahili&theme=great-gatsby&hide_border=true&count_private=true&show_icons=true">
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Sahili&theme=great-gatsby&hide_border=true">
+
+  </div>
+
+  <div align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=Ali-Sahili&bg_color=000000&color=ffd95b&line=ffb74d&point=ffa726&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
+  </div>
+
+</details>
+
+<details>
   <summary>:zap: Most Used Languages</summary>
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&theme=great-gatsby&hide_border=true&layout=compact&langs_count=6)
