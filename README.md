@@ -1,4 +1,9 @@
-### Hi there, I'm Ali 👋
+<!-- ### Hi there, I'm Ali 👋 -->
+<h3 align="center">
+  <!-- Welcome to Jonah Lawrence's profile! -->
+  Hi there, I'm Ali 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France <br>
 🎓 M.Eng in Applied Mathematics: Robotics, Vision and Control, Mines ParisTech, France
