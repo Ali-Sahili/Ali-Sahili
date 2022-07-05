@@ -133,6 +133,7 @@
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/) &nbsp;&nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/arsahili?label=Follow&style=social)](https://twitter.com/arsahili)
 
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Ali-Sahili&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Sahili" /> </p>
 
 <!--  ====================================== COMMENTS ====================================== -->
 
