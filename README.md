@@ -59,7 +59,9 @@
 
 #### 🧰 Frameworks and libraries
 <p>
-<!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
+    <a href="#"><img alt="Arduino" src="https://img.shields.io/static/v1?style=flat&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label="></a>
+  ![Arduino]()
+    <a href="#"><img alt="AssemblyScript](https://img.shields.io/static/v1?style=flat&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv"></a>
@@ -67,7 +69,6 @@
     <a href="#"><img alt="ScikitLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-<!--     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-150.svg?logo=PyTorch&logoColor=white"></a> -->
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/static/v1?style=flat&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="PyTorch Lightning" src="https://img.shields.io/static/v1?style=flat&message=PyTorch+Lightning&color=792EE5&logo=PyTorch+Lightning&logoColor=FFFFFF&label="></a>
 </p>
