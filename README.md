@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Vision%20and%20AI%20Researcher;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
----
+<!-- --- -->
 
 🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France <br>
 🎓 M.Eng in Applied Mathematics: Robotics, Vision and Control, Mines ParisTech, France
