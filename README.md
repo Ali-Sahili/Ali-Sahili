@@ -24,9 +24,9 @@
 - Generative models 💻
 - Robotics 🤖
 
-#### 🛠️ Favorite Tools
+### 🛠️ Favorite Tools
 
-##### 💻 Programming and Markup Languages:
+#### 💻 Programming and Markup Languages:
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
@@ -38,7 +38,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) -->
 <!-- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%20-lightgrey) -->
 
-##### 🧰 Frameworks and libraries
+#### 🧰 Frameworks and libraries
 <p>
 <!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
@@ -58,7 +58,7 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)  -->
 
-##### 💻 Software and tools
+#### 💻 Software and tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
