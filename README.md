@@ -50,7 +50,6 @@
 #### 🧰 Frameworks and libraries
 <p>
 <!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a> -->
-    
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv"></a>
