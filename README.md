@@ -1,6 +1,6 @@
 <!-- ### Hi there, I'm Ali 👋 -->
 <h2 align="center">
-  <!-- Welcome to Jonah Lawrence's profile! -->
+  <!-- Welcome to Ali Rida Sahili's profile! -->
   Hi there, I'm Ali 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
@@ -8,7 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Vision%20and%20AI%20Researcher;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-<!-- --- -->
+
+<!--  ====================================== My Background ====================================== -->
 
 🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France <br>
 🎓 M.Eng in Applied Mathematics: Robotics, Vision and Control, Mines ParisTech, France
@@ -26,6 +27,9 @@
 - Generative models 💻
 - Robotics 🤖
 
+
+<!--  ====================================== Favorite Tools ====================================== -->
+
 ### 🛠️ Favorite Tools
 
 #### 💻 Programming and Markup Languages:
@@ -39,6 +43,9 @@
 <!-- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) -->
 <!-- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%20-lightgrey) -->
+
+
+<!--  ====================================== Frameworks and libraries ====================================== -->
 
 #### 🧰 Frameworks and libraries
 <p>
@@ -60,6 +67,8 @@
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)  -->
 
+<!--  ====================================== Software and tools ====================================== -->
+
 #### 💻 Software and tools
 
 <p>
@@ -73,13 +82,9 @@
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-%20-lightgrey"></a>
 </p>
 
-<!--  <details>
- <summary>⚡ GitHub Recent Activity</summary>
- <br/>
 
-[![Mr Sahili's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ali-Sahili&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</details>  -->
 
+<!--  ====================================== GITHUB STATS ====================================== -->
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -105,12 +110,16 @@
 
 </details>
 
+<!--  ====================================== CONTACT ====================================== -->
+
 📫 Get in touch:
 
 [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:alirida.sahili@gmail.com) &nbsp;&nbsp;
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/) &nbsp;&nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/arsahili?label=Follow&style=social)](https://twitter.com/arsahili)
 
+
+<!--  ====================================== COMMENTS ====================================== -->
 
 <!--
 **Ali-Sahili/Ali-Sahili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
