@@ -79,7 +79,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)  -->
 
 <!--  ====================================== Software and tools ====================================== -->
-
+<!-- LINK for all imgs https://github.com/progfay/shields-with-icon/blob/master/Snippets.md -->
 #### 💻 Software and tools
 
 <p>
@@ -98,8 +98,6 @@
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-ad78f7.svg?logo=visual-studio-code&logoColor=white"></a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
-      
-<!--       https://img.shields.io/badge/Unreal%20Engine-%20-lightgrey -->
 
 </p>
 
