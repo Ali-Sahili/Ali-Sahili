@@ -68,6 +68,7 @@
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/badge/Pytorch-150.svg?logo=PyTorch&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch Lightning" src="https://img.shields.io/static/v1?style=flat&message=PyTorch+Lightning&color=792EE5&logo=PyTorch+Lightning&logoColor=FFFFFF&label="></a>
 </p>
 
 <!--![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
