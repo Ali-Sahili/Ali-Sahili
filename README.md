@@ -85,6 +85,7 @@
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=for-the-badge&message=ROS&color=22314E&logo=ROS&logoColor=white"></a>
     <!-- <a href="#"><img alt="Docker" src=" "></a> -->
     <!-- <a href="#"><img alt="Kubernetes" src=" "></a> -->
     <!-- <a href="#"><img alt="AWS" src=" "></a> -->
