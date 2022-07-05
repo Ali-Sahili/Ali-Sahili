@@ -9,6 +9,16 @@
 </p>
 
 
+<!--  ====================================== CONTACT ====================================== -->
+
+<div align="center">
+  
+  [![Gmail Badge](https://img.shields.io/badge/-sreyan2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alirida.sahili@gmail.com)](mailto:alirida.sahili@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-sreyanghosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/)](https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/)
+
+</div>
+<br>
+
 <!--  ====================================== My Background ====================================== -->
 
 🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France <br>
