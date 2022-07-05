@@ -80,6 +80,13 @@
 [![Mr Sahili's Recent Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ali-Sahili&theme=redical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>  -->
 
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&theme=great-gatsby&hide_border=true&layout=compact&langs_count=6)
+
+</details>
+
 📫 Get in touch:
 
 [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:alirida.sahili@gmail.com) &nbsp;&nbsp;
