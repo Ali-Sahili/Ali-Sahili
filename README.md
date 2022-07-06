@@ -60,7 +60,6 @@
 <!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/static/v1?style=flat&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="AssemblyScript" src="https://img.shields.io/static/v1?style=flat&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label="></a> 
-    
 -->
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
