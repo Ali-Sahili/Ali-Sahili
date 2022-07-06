@@ -47,6 +47,7 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Octave" src="https://img.shields.io/static/v1?style=flat&message=Octave&color=0790C0&logo=Octave&logoColor=FFFFFF&label="></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
 </p>
 
@@ -64,7 +65,6 @@
     <a href="#"><img alt="AssemblyScript" src="https://img.shields.io/static/v1?style=flat&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label="></a> 
     <a href="#"><img alt="Oxygen" src="https://img.shields.io/static/v1?style=flat&message=Oxygen&color=3A209E&logo=Oxygen&logoColor=FFFFFF&label="></a> 
 -->
-    <a href="#"><img alt="Octave" src="https://img.shields.io/static/v1?style=flat&message=Octave&color=0790C0&logo=Octave&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv"></a>
