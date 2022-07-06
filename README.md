@@ -49,11 +49,8 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Octave" src="https://img.shields.io/static/v1?style=flat&message=Octave&color=0790C0&logo=Octave&logoColor=FFFFFF&label="></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
+    <a href="#"><img alt="Oxygen" src="https://img.shields.io/static/v1?style=flat&message=Oxygen&color=3A209E&logo=Oxygen&logoColor=FFFFFF&label="></a> 
 </p>
-
-<!-- ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) -->
-<!-- ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-%20-lightgrey) -->
 
 
 <!--  ====================================== Frameworks and libraries ====================================== -->
@@ -63,7 +60,7 @@
 <!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/static/v1?style=flat&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="AssemblyScript" src="https://img.shields.io/static/v1?style=flat&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label="></a> 
-    <a href="#"><img alt="Oxygen" src="https://img.shields.io/static/v1?style=flat&message=Oxygen&color=3A209E&logo=Oxygen&logoColor=FFFFFF&label="></a> 
+    
 -->
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -92,7 +89,6 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=white&label="></a>
-<!--   ![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=) -->
     <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&logo=ROS&logoColor=white"></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
     <!-- <a href="#"><img alt="Docker" src=" "></a> -->
