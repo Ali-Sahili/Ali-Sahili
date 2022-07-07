@@ -49,7 +49,8 @@
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="Octave" src="https://img.shields.io/static/v1?style=flat&message=Octave&color=0790C0&logo=Octave&logoColor=FFFFFF&label="></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Atex"><img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white"></a>
-    <a href="#"><img alt="Oxygen" src="https://img.shields.io/static/v1?style=flat&message=Oxygen&color=3A209E&logo=Oxygen&logoColor=FFFFFF&label="></a> 
+    <a href="#"><img alt="Oxygen" src="https://img.shields.io/static/v1?style=flat&message=Oxygen&color=3A209E&logo=Oxygen&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-150458.svg?logo=gnu-bash&logoColor=white"></a>
 </p>
 
 
@@ -93,7 +94,6 @@
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
     <!-- <a href="#"><img alt="Kubernetes" src=" "></a> -->
     <!-- <a href="#"><img alt="AWS" src=" "></a> -->
-    <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-150458.svg?logo=gnu-bash&logoColor=white"></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"><a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
