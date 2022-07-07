@@ -88,7 +88,8 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=white&label="></a>
-    <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&logo=ROS&logoColor=white"></a>
+    <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=white&label="></a>
+   <!-- <a href="#"><img alt="Gazebo" src="https://img.shields.io/static/v1?style=flat&message=Gazebo&logo=Gazebo&logoColor=white"></a> -->
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
     <!-- <a href="#"><img alt="Docker" src=" "></a> -->
     <!-- <a href="#"><img alt="Kubernetes" src=" "></a> -->
