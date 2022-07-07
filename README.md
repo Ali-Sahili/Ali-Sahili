@@ -89,9 +89,8 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=white&label="></a>
     <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=white&label="></a>
-    <a href="#"><img alt="Gazebo" src="https://img.shields.io/static/v1?style=flat&message=Gazebo&color=22314&logo=Gazebo&logoColor=white&label="></a>
+    <a href="#"><img alt="Gazebo" src="https://img.shields.io/static/v1?style=flat&message=Gazebo&color=22314&logo=GAZEBO&logoColor=white&label="></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
-    <!-- <a href="#"><img alt="Docker" src=" "></a> -->
     <!-- <a href="#"><img alt="Kubernetes" src=" "></a> -->
     <!-- <a href="#"><img alt="AWS" src=" "></a> -->
     <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/Shell%20Script-150458.svg?logo=gnu-bash&logoColor=white"></a>
