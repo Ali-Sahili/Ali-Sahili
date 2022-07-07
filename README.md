@@ -73,14 +73,6 @@
     <a href="#"><img alt="PyTorch Lightning" src="https://img.shields.io/static/v1?style=flat&message=PyTorch+Lightning&color=792EE5&logo=PyTorch+Lightning&logoColor=FFFFFF&label="></a>
 </p>
 
-<!--![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) 
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)  -->
-
 <!--  ====================================== Software and tools ====================================== -->
 <!-- LINK for all imgs https://github.com/progfay/shields-with-icon/blob/master/Snippets.md -->
 #### 💻 Software and tools
@@ -89,10 +81,10 @@
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=white&label="></a>
+    <a href="#"><img alt="Kubernetes" src="https://img.shields.io/static/v1?style=for-the-badge&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=white&label="></a>
     <a href="#"><img alt="Gazebo" src="https://img.shields.io/static/v1?style=flat&message=Gazebo&color=22314E&logo=GAZEBO&logoColor=white&label="></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
-    <!-- <a href="#"><img alt="Kubernetes" src=" "></a> -->
     <!-- <a href="#"><img alt="AWS" src=" "></a> -->
     <a href="#"><img alt="MATLAB" src="https://img.shields.io/static/v1?style=flat&message=MATLAB&color=007ACC&logo=Matlab&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Simulink" src="https://img.shields.io/static/v1?style=flat&message=Simulink&color=0790C0&logo=Simulink&logoColor=FFFFFF&label="></a>
