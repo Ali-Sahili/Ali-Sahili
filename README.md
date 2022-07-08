@@ -21,7 +21,7 @@
 
 <!--  ====================================== My Background ====================================== -->
 
-🎓 MS in Mathematics, Vision and Learning, ENS Paris-Saclay, France <br>
+🎓 MS in Mathematics, Vision and Learning (Master MVA), ENS Paris-Saclay, France <br>
 🎓 M.Eng in Applied Mathematics: Robotics, Vision and Control, Mines ParisTech, France
 
 🖥️ R&D CV Engineer @ [Gerard Farm]()<br>
