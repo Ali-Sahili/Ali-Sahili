@@ -83,6 +83,7 @@
     <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/Github-%23121011.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="Docker" src="https://img.shields.io/static/v1?style=flat&message=Docker&color=2496ED&logo=Docker&logoColor=white&label="></a>
     <a href="#"><img alt="Kubernetes" src="https://img.shields.io/static/v1?style=flat&message=Kubernetes&color=326CE5&logo=Kubernetes&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="Amazon EC2" src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label="></a>
     <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=white&label="></a>
     <a href="#"><img alt="Gazebo" src="https://img.shields.io/static/v1?style=flat&message=Gazebo&color=22314E&logo=GAZEBO&logoColor=white&label="></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
