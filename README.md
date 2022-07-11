@@ -90,9 +90,9 @@
     <!-- <a href="#"><img alt="AWS" src=" "></a> -->
     <a href="#"><img alt="MATLAB" src="https://img.shields.io/static/v1?style=flat&message=MATLAB&color=007ACC&logo=Matlab&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Simulink" src="https://img.shields.io/static/v1?style=flat&message=Simulink&color=0790C0&logo=Simulink&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="Anaconda" src="https://img.shields.io/static/v1?style=flat&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"><a>
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"></a>
-    <a href="#"><img alt="Anaconda" src="https://img.shields.io/static/v1?style=flat&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/static/v1?style=flat&message=Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label="></a>
     <!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> -->
