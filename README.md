@@ -10,16 +10,6 @@
 </p>
 
 
-<!--  ====================================== CONTACT ====================================== -->
-
-<!-- <div align="center">
-  
-  [![Gmail Badge](https://img.shields.io/badge/-sreyan2000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alirida.sahili@gmail.com)](mailto:alirida.sahili@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/-sreyanghosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/)](https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/)
-
-</div>
-<br> -->
-
 <!--  ====================================== My Background ====================================== -->
 
 🎓 MS in Mathematics, Vision and Learning (Master MVA), ENS Paris-Saclay, France <br>
@@ -109,10 +99,8 @@
 
   <div align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
-    <!--     <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Sahili&theme=great-gatsby&hide_border=true&count_private=true&show_icons=true"> -->
     <img alt="GitHub Stats" width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Sahili&count_private=true&show_icons=true">
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
-<!-- <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Sahili&theme=great-gatsby&hide_border=true"> -->
     <img alt="GitHub Streak" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Sahili">
   </div>
 
@@ -120,14 +108,13 @@
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
     <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=Ali-Sahili&bg_color=FFFFFF&color=0790C0&line=0790C0&point=326CE5&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
   </div>  
-<!--   ffb74d   ffd95b  0790C0 EE4C2C 326CE5 ffa726 -->
+    <!--   ffb74d   ffd95b  0790C0 EE4C2C 326CE5 ffa726 -->
 
 </details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
-
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&theme=great-gatsby&hide_border=true&layout=compact&langs_count=6) -->
+  <!-- theme=great-gatsby  -->
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&layout=compact&hide_border=false&langs_count=8)
 </details>
 
@@ -137,7 +124,6 @@
 
 [![email](https://user-images.githubusercontent.com/25087769/87174308-a4680f00-c2df-11ea-90b0-5fa1fa76d2f1.png)](mailto:alirida.sahili@gmail.com) &nbsp;&nbsp;
 [![linkedin](https://user-images.githubusercontent.com/25087769/87172072-530a5080-c2dc-11ea-8e2c-8ee4dbf3394b.png)](https://www.linkedin.com/in/ali-rida-sahili-a84b7a189/) &nbsp;&nbsp;
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/arsahili?label=Follow&style=social)](https://twitter.com/arsahili) -->
 
 <p align="right">
   <a href="https://twitter.com/arsahili"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/arsahili?label=Follow&style=social"></a>
