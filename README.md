@@ -1,3 +1,4 @@
+<!--  ====================================== TITLE ====================================== -->
 <!-- ### Hi there, I'm Ali 👋 -->
 <h2 align="center">
   <!-- Welcome to Ali Rida Sahili's profile! -->
@@ -58,10 +59,6 @@
 
 #### 🧰 Frameworks and libraries
 <p>
-<!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/static/v1?style=flat&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label="></a>
-    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label="></a>
-    <a href="#"><img alt="AssemblyScript" src="https://img.shields.io/static/v1?style=flat&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label="></a> 
--->
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23white.svg?logo=opencv"></a>
@@ -72,6 +69,11 @@
     <a href="#"><img alt="Pytorch" src="https://img.shields.io/static/v1?style=flat&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="PyTorch Lightning" src="https://img.shields.io/static/v1?style=flat&message=PyTorch+Lightning&color=792EE5&logo=PyTorch+Lightning&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="OpenAI Gym" src="https://img.shields.io/static/v1?style=flat&message=OpenAI+Gym&color=0081A5&logo=OpenAI+Gym&logoColor=FFFFFF&label="></a>
+    <!--     <a href="#"><img alt="Arduino" src="https://img.shields.io/static/v1?style=flat&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="Raspberry Pi" src="https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label="></a>
+    <a href="#"><img alt="AssemblyScript" src="https://img.shields.io/static/v1?style=flat&message=AssemblyScript&color=007AAC&logo=AssemblyScript&logoColor=FFFFFF&label="></a> 
+    -->
+    
 </p>
 
 <!--  ====================================== Software and tools ====================================== -->
@@ -87,7 +89,6 @@
     <a href="#"><img alt="ROS" src="https://img.shields.io/static/v1?style=flat&message=ROS&color=22314E&logo=ROS&logoColor=white&label="></a>
     <a href="#"><img alt="Gazebo" src="https://img.shields.io/static/v1?style=flat&message=Gazebo&color=22314E&logo=GAZEBO&logoColor=white&label="></a>
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/static/v1?style=flat&message=Unreal+Engine&color=0E1128&logo=Unreal+Engine&logoColor=white&label="></a>
-    <!-- <a href="#"><img alt="AWS" src=" "></a> -->
     <a href="#"><img alt="MATLAB" src="https://img.shields.io/static/v1?style=flat&message=MATLAB&color=007ACC&logo=Matlab&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Simulink" src="https://img.shields.io/static/v1?style=flat&message=Simulink&color=0790C0&logo=Simulink&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Anaconda" src="https://img.shields.io/static/v1?style=flat&message=Anaconda&color=44A833&logo=Anaconda&logoColor=FFFFFF&label="></a>
@@ -97,7 +98,6 @@
     <a href="#"><img alt="Google Colab" src="https://img.shields.io/static/v1?style=flat&message=Colab&color=222222&logo=Google+Colab&logoColor=F9AB00&label="></a>
     <!-- <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a> -->
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/static/v1?style=flat&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="></a>
-    <!--<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-ad78f7.svg?logo=visual-studio-code&logoColor=white"></a> -->
 
 </p>
 
