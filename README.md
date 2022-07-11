@@ -125,8 +125,8 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&theme=great-gatsby&hide_border=true&layout=compact&langs_count=6)
-
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&theme=great-gatsby&hide_border=true&layout=compact&langs_count=6) -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&layout=compact)
 </details>
 
 <!--  ====================================== CONTACT ====================================== -->
