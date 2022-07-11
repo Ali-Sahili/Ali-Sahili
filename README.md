@@ -118,9 +118,9 @@
 
   <div align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=Ali-Sahili&bg_color=FFFFFF&color=EE4C2C&line=EE4C2C&point=ffa726&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
+    <img alt="GitHub Activity Graph" width="98%" src="https://activity-graph.herokuapp.com/graph?username=Ali-Sahili&bg_color=FFFFFF&color=0790C0&line=0790C0&point=ffa726&area=true&hide_border=true&custom_title=Last%20Month%20Contributions%20Graph">
   </div>  
-<!--   ffb74d   ffd95b  -->
+<!--   ffb74d   ffd95b  0790C0 EE4C2C -->
 
 </details>
 
