@@ -115,7 +115,7 @@
 <details>
   <summary>:zap: Most Used Languages</summary>
   <!-- theme=great-gatsby  -->
-   <img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&layout=compact&hide_border=false&langs_count=8">  
+   <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Sahili&layout=compact&hide_border=false&langs_count=8">  
 </details>
 
 <!--  ====================================== CONTACT ====================================== -->
