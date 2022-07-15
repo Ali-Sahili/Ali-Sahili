@@ -10,6 +10,7 @@
 </p>
 
 
+
 <!--  ====================================== My Background ====================================== -->
 
 🎓 MS in Mathematics, Vision and Learning (Master MVA), ENS Paris-Saclay, France <br>
@@ -27,6 +28,7 @@
 - Computer Vision 🎨
 - Generative models 💻
 - Robotics 🤖
+
 
 
 <!--  ====================================== Favorite Tools ====================================== -->
@@ -93,6 +95,7 @@
 
 
 
+
 <!--  ====================================== GITHUB STATS ====================================== -->
 <details>
   <summary>:zap: GitHub Stats</summary>
@@ -120,6 +123,7 @@
   </div>
 </details>
 
+
 <!--  ====================================== CONTACT ====================================== -->
 
 📫 Get in touch:
@@ -132,6 +136,7 @@
   <img src="https://komarev.com/ghpvc/?username=Ali-Sahili&label=Profile%20views&color=0e75b6&style=flat" alt="Ali-Sahili" /> 
 </p>
 
+      
 <!--  ====================================== COMMENTS ====================================== -->
 
 <!--
@@ -148,3 +153,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--  =================================================================================================================== -->
