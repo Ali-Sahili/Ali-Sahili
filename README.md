@@ -26,7 +26,7 @@
 - Machine Learning 💥
 - Deep Learning 🧠
 - Computer Vision 🎨
-- Generative models 💻
+- Computer Graphics 💻
 - Robotics 🤖
 
 
